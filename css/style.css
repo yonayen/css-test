@@ -1,0 +1,22 @@
+#wrapper {
+  background-color: steelblue;
+  width: 40em;
+  padding: 20px;
+  font-family: sans-serif;
+  color: mintcream;
+}
+
+h1 {
+  font-size: 3em;
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+  padding: 15px;
+  background: cornflowerblue;
+}
+
+.highlighted {
+  background: indianred;
+}
